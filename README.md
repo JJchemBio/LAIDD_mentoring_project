@@ -14,3 +14,6 @@ All scripts in "bs_denovo" direcrtory were provided as part of the mentoring pro
 - for training attention-based model (lig: GCN, prot: 1dCNN) with kinase-ligand activity data
 7. SGK1_finetuning.py
 - for finetuning of attention-based model with SGK1 data 
+
+Special thanks to Professor Nam's group in GIST for their dedicated guidance and invaluable support. 
+I am sincerely grateful for their teaching and mentorship.
