@@ -1,6 +1,6 @@
 All scripts in "bs_denovo" directory were provided as part of the mentoring project and include some minor modifications.
 
-The scripts below are also based on what we learned in class and heavily reference the original code.
+The scripts below are also based on what we learned in class and reference the original code.
 
 1. predictiveModel_train_with_ML_models.py
 - for training RF, XGBoost, GBM, SVM models with SGK1 data.
@@ -18,4 +18,3 @@ The scripts below are also based on what we learned in class and heavily referen
 - for finetuning of attention-based model with SGK1 data 
 
 Special thanks to Professor Nam's group in GIST for their dedicated guidance and invaluable support. 
-I am sincerely grateful for their teaching and mentorship.
