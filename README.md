@@ -1,4 +1,4 @@
-All scripts in "bs_denovo" direcrtory were provided as part of the mentoring project and include some minor modifications.
+All scripts in "bs_denovo" directory were provided as part of the mentoring project and include some minor modifications.
 
 1. predictiveModel_train_with_ML_models.py
 - for training RF, XGBoost, GBM, SVM models with SGK1 data.
